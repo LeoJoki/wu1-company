@@ -20,6 +20,8 @@ Kopiera följande till ett nytt dokument och fyll i informationen om ditt föret
 6. **Unik Säljpunkt (USP)**: Förklara vad som gör företaget unikt jämfört med konkurrenterna.
 
 ## Del 2: Utforma Designdokument
+Detta kallas ofta också en grafisk profil eller manual.
+
 1. **Logotyp**: Skapa en design och välj färger för företagets logotyp.
 2. **Färgpalett**: Bestäm primära och sekundära färger som företaget använder i sin branding.
 3. **Typsnitt**: Välj typsnitt för rubriker, brödtext och andra texttyper.
