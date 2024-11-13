@@ -1,9 +1,9 @@
 # Skapa ett Fiktivt Företag och Utforma en Webbplats
 
 ## Introduktion
-I denna uppgift kommer du att arbeta med att skapa ett fiktivt företag och utveckla dess profil. Du kommer att beskriva företagets grundläggande egenskaper och målgrupp, samt utforma en webbplats som representerar företaget. Uppgiften syftar till att ge dig en helhetsförståelse för hur man bygger en företagsidentitet och hur denna kan presenteras på en webbplats.
+I denna uppgift kommer du att arbeta med att skapa ett påhittat företag och utveckla dess profil. Du kommer att beskriva företagets grundläggande egenskaper och målgrupp, samt utforma en webbplats som representerar företaget. Uppgiften syftar till att ge dig en helhetsförståelse för hur man bygger en företagsidentitet och hur denna kan presenteras på en webbplats.
 
-Vi kommer sedan kunna testa att utföra olika uppgifter och övningar på ditt företag.
+Vi kommer sedan kunna testa att utföra olika uppgifter och övningar på ditt företag. Du kommer att få lansera en ny produkt, presenetera medarbetare och hantera fel!
 
 För att underlätta arbetet och skapandet av företaget så kommer vi att dela upp det i olika delar. Du kan även använda något som kallas för personas och use cases för att skapa en mer detaljerad beskrivning av företaget och dess användare. Läs mer om [personas](personas.md) och [use cases](use_case.md) för att få en bättre förståelse för hur dessa kan användas.
 
