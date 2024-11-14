@@ -1,11 +1,11 @@
-# Skapa ett Fiktivt Företag och Utforma en Webbplats
+# Skapa ett påhittat företag och utforma en webbplats
 
 ## Introduktion
 I denna uppgift kommer du att arbeta med att skapa ett påhittat företag och utveckla dess profil. Du kommer att beskriva företagets grundläggande egenskaper och målgrupp, samt utforma en webbplats som representerar företaget. Uppgiften syftar till att ge dig en helhetsförståelse för hur man bygger en företagsidentitet och hur denna kan presenteras på en webbplats.
 
-Vi kommer sedan kunna testa att utföra olika uppgifter och övningar på ditt företag. Du kommer att få lansera en ny produkt, presenetera medarbetare och hantera fel!
+Vi kommer sedan kunna testa att utföra olika uppgifter och övningar på ditt företag. Du kommer bland annat att få lansera en ny produkt, presentera medarbetare och hantera fel!
 
-För att underlätta arbetet och skapandet av företaget så kommer vi att dela upp det i olika delar. Du kan även använda något som kallas för personas och use cases för att skapa en mer detaljerad beskrivning av företaget och dess användare. Läs mer om [personas](personas.md) och [use cases](use_case.md) för att få en bättre förståelse för hur dessa kan användas.
+För att underlätta arbetet och skapandet av företaget så kommer vi att dela upp det i olika delar. Du kan även använda något som kallas för personas och use cases för att skapa en mer detaljerad beskrivning av företaget och dess användare. Läs mer om [personas](personas.md) och [use cases](use_case.md) för att få en bättre förståelse för hur dessa kan användas. Det här är verktyg för dig att använda för att förenkla och förbättra ditt arbete, det är inte direkt kopplat till kursen, men det är något som hör ihop med målen för teknikprogrammet och något som är viktigt för kommande kurser och ditt eventuella arbete i framtiden.
 
 Om inspirationen saknas och du behöver hjälp så prata med Jens, men du kan även prova att använda AI för att dels ge information om vilken typ av företag du vill skapa, men också för att svara på frågorna för mallen.
 
