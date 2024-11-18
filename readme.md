@@ -20,7 +20,7 @@ Kopiera följande till ett nytt dokument och fyll i informationen om ditt föret
 6. **Unik Säljpunkt (USP)**: Förklara vad som gör företaget unikt jämfört med konkurrenterna.
 
 ## Del 2: Utforma Designdokument
-Detta kallas ofta också en grafisk profil eller manual.
+Detta kallas ofta också en grafisk profil eller manual. Det finns här en [mall för grafisk profil](mall-grafisk_profil.md) som du kan använda för att skapa ditt designdokument.
 
 1. **Logotyp**: Skapa en design och välj färger för företagets logotyp.
 2. **Färgpalett**: Bestäm primära och sekundära färger som företaget använder i sin branding.
@@ -97,27 +97,3 @@ När du har skapat företagets profil och designdokument kan du gå vidare till 
 | **Responsivitet** | Webbplatsen fungerar på olika enheter med viss anpassning. | Webbplatsen är responsiv och fungerar bra på olika enheter. | Webbplatsen är fullt responsiv och optimerad för alla enheter. |
 | **Användarvänlighet** | Webbplatsen är enkel att använda. | Webbplatsen är användarvänlig och intuitiv. | Webbplatsen erbjuder en utmärkt användarupplevelse med intuitiv navigering och interaktion. |
 
-
-
-
-
-
-
-
-
-
-Senare
-
-cta mailinglista
-
-om oss 
-
-- **Teamet**: Presentation av nyckelpersoner i företaget, eventuellt med bilder och korta biografier.
-
-kontaktsida
-
-- **Kontaktformulär**: Ett enkelt formulär där besökare kan skicka meddelanden direkt från webbplatsen.
-- **Karta**: En inbäddad karta som visar företagets plats (om relevant).
-
-3. **Produktsida**: Skapa en sida som visar företagets produkter eller tjänster med beskrivningar och bilder.
-5. **Nyhetsbrev**: Implementera en funktion för besökare att registrera sig för företagets nyhetsbrev.
