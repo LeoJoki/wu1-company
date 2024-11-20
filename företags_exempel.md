@@ -1,3 +1,21 @@
+### Företagsnamn:
+CyberSteed
+### Mission Statement:
+"Att revolutionera leksaksindustrin genom att erbjuda innovativa och högteknologiska käpphästar som kombinerar traditionell lek med modern teknik."
+### Vision: 
+"Att bli världsledande inom högteknologiska leksaker och skapa en ny era av interaktiv och futuristisk lek för alla åldrar."
+### Produkter eller Tjänster:
+CyberSteed erbjuder en serie cybernetiska käpphästar med olika motoralternativ och anpassningsbara funktioner. Våra produkter inkluderar allt från grundläggande modeller för nybörjare till avancerade versioner med AI-styrning och VR-integration.
+### Målgrupp
+* Demografi: Unga vuxna (18-35 år), främst män, med medelhög till hög inkomst och ett starkt intresse för teknik och innovation.
+* Geografi: Storstadsområden och tekniknav runt om i världen, inklusive Silicon Valley, Tokyo, och Berlin.
+* Psykografi: Tech-entusiaster, gamers, och memelords som älskar att vara först med den senaste tekniken och trenderna. De är aktiva på sociala medier och deltar ofta i teknik- och spelkonferenser.
+* Beteende: Köper ofta nya tekniska prylar och gadgets, deltar i onlineforum och communities, och delar gärna sina upplevelser och recensioner på sociala medier.
+### USP: CyberSteed kombinerar traditionell lek med banbrytande teknik för att skapa en unik och interaktiv upplevelse. Våra cybernetiska käpphästar är inte bara leksaker, utan också högteknologiska enheter som kan anpassas och uppgraderas för att passa användarens behov och preferenser. Med funktioner som AI-styrning, VR-integration och olika motoralternativ erbjuder vi en produkt som ingen annan på marknaden.
+
+
+
+
 ### Företagsnamn
 **Namn**: DPS Blöjan
 
