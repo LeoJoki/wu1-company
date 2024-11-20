@@ -1,4 +1,5 @@
 # Introduktion till Use Cases
+
 **Use cases** är en metod som används inom systemutveckling och design för att beskriva hur användare interagerar med ett system eller en webbplats. De hjälper till att definiera och dokumentera de olika scenarier där användare utför specifika uppgifter eller når specifika mål. Genom att använda use cases kan utvecklare och designers få en bättre förståelse för användarnas behov och hur systemet ska stödja dessa behov.
 
 ## Vad är ett Use Case?

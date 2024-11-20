@@ -16,7 +16,7 @@ Kopiera följande till ett nytt dokument och fyll i informationen om ditt föret
 2. **Mission Statement**: Skriv en kort och inspirerande beskrivning av företagets syfte och mål.
 3. **Vision**: Beskriv vad företaget strävar efter att uppnå i framtiden.
 4. **Produkter eller Tjänster**: Ge en kort beskrivning av vad företaget erbjuder.
-5. **Målgrupp**: Definiera vilka kunder företaget riktar sig till. Beskriv demografi, geografi, psykografi och beteende. Kolla dokumentet om [målgrupp](audience.md) för mer information.
+5. **Målgrupp**: Definiera vilka kunder företaget riktar sig till. Beskriv demografi, geografi, psykografi och beteende. Kolla dokumentet om [målgrupp](målgrupp.md) för mer information.
 6. **Unik Säljpunkt (USP)**: Förklara vad som gör företaget unikt jämfört med konkurrenterna.
 
 ## Del 2: Utforma Designdokument
@@ -26,7 +26,7 @@ Detta kallas ofta också en grafisk profil eller manual. Det finns här en [mall
 2. **Färgpalett**: Bestäm primära och sekundära färger som företaget använder i sin branding.
 3. **Typsnitt**: Välj typsnitt för rubriker, brödtext och andra texttyper.
 4. **Bildstil**: Definiera vilken typ av bilder och illustrationer företaget använder.
-5. **Layout och Designprinciper**: Skapa riktlinjer för webbplatsens layout, inklusive grid-system, marginaler och avstånd.
+5. **Layout och Designprinciper**: Skapa riktlinjer för webbplatsens layout, marginaler och avstånd. Fundera på var saker hamnar på sidan och hur de ser ut. Kom ihåg att ditt mål är att designa en webbplats som kan skala och fungera på alla enheter.
 6. **Ton och Röst**: Beskriv hur företaget kommunicerar i text, t.ex. formellt, informellt, vänligt, professionellt.
 7. **Ikoner och Grafik**: Specificera vilka ikoner och grafiska element som används konsekvent.
 

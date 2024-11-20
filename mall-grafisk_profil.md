@@ -27,8 +27,8 @@ Om du vill så kan du testa att använda någon form av AI-tjänst för att skap
 - **Exempel**: Inkludera exempelbilder som representerar den önskade stilen. Du kan lägga till bilder i repot och länka dem i md filen med `![Bildbeskrivning](sökväg/till/bild.jpg)`.
 
 ## 5. Layout och Designprinciper
-Här kan du med fördel utgå från de layouts vi har jobbat med, sidebar och centrerad. Fortsätt gärna att testa med Flexbox, eller så hittar du information kring layout här [moderncss](https://moderncss.dev/solutions-to-replace-the-12-column-grid/).
-- **Grid/flex system**: Beskriv om du har planerat för ett grid eller flex system. Har du planerat din layout utifrån ett grid med kolumner och rader?
+Här kan du med fördel utgå från de layouts vi har jobbat med, sidebar och centrerad. Fortsätt gärna att testa med Flexbox. Hur ska dina sidor se ut? Hur ska de vara uppbyggda?
+- **Grid/flex system**: Beskriv om du har planerat för ett grid eller flex system.
 - **Marginaler och Avstånd**: Ange riktlinjer för marginaler och avstånd mellan element.
 - **Layoutprinciper**: Beskriv viktiga principer för layout (t.ex. balans, kontrast, hierarki).
 

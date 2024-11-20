@@ -2,6 +2,8 @@
 
 **Personas** är fiktiva karaktärer som representerar olika delar av en målgrupp. De baseras på verkliga data om användarnas demografi, beteenden, behov och mål. Personas hjälper företag och utvecklingsteam att förstå sina användare, vilket leder till bättre designbeslut och mer användarcentrerade produkter och tjänster.
 
+Det är inte helt ovanligt att personas innehåller ett flertal förutfattade meningar och stereotyper. Det är inget konstigt, dessa uppfattningar finns där för att de är en del av samhälle och kultur. Det är dock viktigt att vara medveten om detta och att inte låta dessa förutfattade meningar påverka beslutsfattandet i negativ riktning.
+
 ## Hur Används Personas?
 
 1. **Design och Utveckling**: Personas används för att guida design- och utvecklingsbeslut. Genom att ha en tydlig bild av vem användarna är kan teamet skapa funktioner och gränssnitt som bättre möter deras behov.
@@ -33,7 +35,7 @@
 - **Utmaningar**: Begränsad budget, svårt att hitta pålitliga recensioner och rekommendationer.
 
 ### Persona 2: Miljömedveten Förälder
-- **Namn**: Emma
+- **Namn**: Rickard
 - **Ålder**: 35 år
 - **Yrke**: Lärare
 - **Intressen**: Hållbarhet, ekologisk mat, familjeaktiviteter
@@ -41,10 +43,18 @@
 - **Utmaningar**: Hitta prisvärda och pålitliga miljövänliga produkter.
 
 ### Persona 3: Småföretagare
-- **Namn**: Johan
+- **Namn**: Maria
 - **Ålder**: 45 år
 - **Yrke**: Ägare av en lokal butik
 - **Intressen**: Företagsutveckling, nätverkande, lokal ekonomi
 - **Mål**: Öka försäljningen och nå ut till fler kunder online.
 - **Utmaningar**: Begränsad tid och resurser för marknadsföring och webbplatsunderhåll.
+
+### Persona 4: Senior
+- **Namn**: Ingrid
+- **Ålder**: 70 år
+- **Yrke**: Pensionär
+- **Intressen**: Trädgård, hantverk, resor
+- **Mål**: Hitta enkla och användarvänliga lösningar för att handla och kommunicera online.
+- **Utmaningar**: Teknikrädsla, svårt att navigera komplicerade webbplatser.
 
