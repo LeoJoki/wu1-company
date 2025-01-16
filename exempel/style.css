@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   margin: 0;
 }
 body {
@@ -36,4 +37,52 @@ body {
 
   padding: 0;
   margin: 0;
+}
+
+/* hero */
+
+img {
+  max-width: 100%;
+}
+.hero {
+  display: grid;
+  grid-template-areas: "hero";
+  place-items: center;
+}
+.hero > * {
+  grid-area: hero;
+}
+.hero-content {
+  color: #fff;
+}
+.hero-content h1 {
+  font-size: 7rem;
+}
+.hero-content h2 {
+  font-size: 4rem;
+}
+
+/* main content */
+.container {
+  width: min(100vw - 3rem, 56rem);
+  margin-inline: auto;
+}
+.region {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+/* testimonials */
+.testimonials-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+.testimonials-list li {
+  max-width: 10rem;
+}
+
+.testimonials img {
+  border-radius: 100%;
+  aspect-ratio: 1;
 }
