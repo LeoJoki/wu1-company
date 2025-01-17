@@ -97,3 +97,21 @@ img {
   border-radius: 100%;
   aspect-ratio: 1;
 }
+
+.site-foot {
+  color: #fff;
+  background-color: grey;
+}
+
+.site-foot ul {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.site-foot p {
+  margin-top: 3rem;
+}
