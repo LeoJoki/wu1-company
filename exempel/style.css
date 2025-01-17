@@ -1,3 +1,6 @@
+:root {
+  --container-width: 58rem;
+}
 html,
 body {
   margin: 0;
@@ -64,7 +67,7 @@ img {
 
 /* main content */
 .container {
-  width: min(100vw - 3rem, 56rem);
+  width: min(100vw - 3rem, var(--container-width));
   margin-inline: auto;
 }
 .region {
@@ -73,13 +76,21 @@ img {
 }
 
 /* testimonials */
+.testimonials {
+  --container-width: 80rem;
+}
+
 .testimonials-list {
   list-style: none;
   display: flex;
-  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 5rem;
+  margin: 0;
+  padding: 0;
 }
+
 .testimonials-list li {
-  max-width: 10rem;
+  flex: 1 1 15rem;
 }
 
 .testimonials img {
