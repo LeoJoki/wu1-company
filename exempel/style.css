@@ -65,6 +65,14 @@ img {
   font-size: 4rem;
 }
 
+.hero-image {
+  max-height: 60vh;
+  width: 100%;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  object-position: center;
+}
+
 /* main content */
 .container {
   width: min(100vw - 3rem, var(--container-width));
