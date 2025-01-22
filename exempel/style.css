@@ -1,6 +1,9 @@
 :root {
   --container-width: 58rem;
 }
+
+/* reset */
+
 html,
 body {
   margin: 0;
@@ -9,6 +12,13 @@ body {
   font-family: sans-serif;
   font-size: 1.2rem;
 }
+
+img {
+  max-width: 100%;
+}
+
+/* header */
+
 .site-head {
   display: flex;
   flex-wrap: wrap;
@@ -44,9 +54,6 @@ body {
 
 /* hero */
 
-img {
-  max-width: 100%;
-}
 .hero {
   display: grid;
   grid-template-areas: "hero";
@@ -105,6 +112,8 @@ img {
   border-radius: 100%;
   aspect-ratio: 1;
 }
+
+/* footer */
 
 .site-foot {
   color: #fff;
