@@ -8,8 +8,8 @@
 
   --color-dark: #333;
   --color-light: #f1f1f1;
-  --color-primary: hsl(240, 67%, 40%);
-  --color-secondary: hsl(281, 76%, 58%);
+  --color-primary: hsl(43, 100%, 54%);
+  --color-secondary: hsl(63, 100%, 52%);
 }
 
 /* reset */
@@ -25,6 +25,7 @@ body {
 
 img {
   max-width: 100%;
+
 }
 
 /* header */
@@ -91,7 +92,34 @@ img {
   aspect-ratio: 16/9;
   object-fit: cover;
   object-position: center;
+  align-self: stretch;
 }
+
+.info {
+  display: flex;
+  place-self: center;
+  max-height: 60vh;
+  color: var(--color-dark);
+  gap: 1rem;
+  margin: 2%;
+  align-items: center;
+}
+
+.info-content h1 {
+  font-size: var(--step-7);
+  font-weight: 11;
+  text-transform: uppercase;
+  color: var(--color-secondary);
+}
+.info-content h2 {
+  font-size: var(--step-3);
+}
+
+.info-image {
+  max-height: 25vh;
+  object-position: right;
+}
+
 
 /* main content */
 .container {
@@ -176,4 +204,55 @@ img {
 
 .card-content {
   padding: 1rem;
+}
+
+.color-list {
+  display: flex;
+  justify-content: space-around;
+  gap: 1rem;
+  list-style: none;
+  
+  li {
+    aspect-ratio: 1;
+    width: 10rem;
+    display: grid;
+    place-items:center;
+    border: 1px solid var(--color-dark);
+  }
+}
+
+.primary {
+  background-color: var(--color-primary);
+}
+
+.secondary {
+  background-color: var(--color-secondary);
+}
+
+.dark{
+  background-color: var(--color-dark);
+}
+
+.light {
+  background-color: var(--color-light);
+}
+
+.light-primary {
+  color: var(--color-light);
+  background-color: var(--color-primary);
+}
+
+.dark-primary {
+  color: var(--color-dark);
+  background-color: var(--color-primary);
+}
+
+.light-secondary {
+  color: var(--color-light);
+  background-color: var(--color-secondary);
+}
+
+.dark-secondary {
+  color: var(--color-dark);
+  background-color: var(--color-secondary);
 }
